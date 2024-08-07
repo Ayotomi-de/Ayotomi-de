@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning so much🌚
 - 💞️ I’m looking to collaborate on different projects
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm the daughter of the most high😌💅🏾
+- ⚡ Fun fact: I'm a foodie😌
 
 <!---
 Ayotomi-de/Ayotomi-de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
