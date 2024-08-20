@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayotomi-de
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on different projects
+- 👀 I’m interested in software development and front-end devolpment
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on different projects involving web development
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm the daughter of the most high😌💅🏾
 
