@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on different projects involving web development
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm the daughter of the most high😌💅🏾
+- ⚡ Fun fact: Web development is interesting!
 
 <!---
 Ayotomi-de/Ayotomi-de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
