@@ -1,6 +1,6 @@
-## 👋🏽 Hey there, I’m Ayotomide Ogunsami — but you can call me **Ayo.t** ✨
+## 👋🏽 Hey there, I’m Ayotomide Ogunsami
 
-Welcome to my little corner of GitHub! I’m a passionate **front-end developer** and a lifelong learner on a mission to create, inspire, and grow — one line of code at a time.
+Welcome to my little corner of GitHub! I’m a passionate **software developer** and a lifelong learner on a mission to create, inspire, and grow.
 
 ---
 
@@ -29,7 +29,7 @@ Tools:       Git · GitHub · VS Code · Chrome DevTools
 ![linkedin](https://github.com/user-attachments/assets/0c94bda7-5349-4fa1-a09c-a6fcf98be0bd) - Ayotomide Ogunsami on [LinkedIn](https://www.linkedin.com/in/ayotomide-ogunsami-93aa61312/)
 
 > I embody creativity and shine everywhere I go. I don’t just code — I create, grow, and inspire.
-Let’s connect and build something amazing — authentically and intentionally 💫
+Let’s connect and build something amazing.
 
 
 <!---
